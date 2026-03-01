@@ -1,0 +1,192 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.head-1{
+    align-items: center;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    background: linear-gradient(to right, rgb(255, 238, 0),rgb(255, 174, 0));
+    height: auto;
+
+}
+
+.top{
+    align-items: center;
+    display: flex;
+    gap: 30px;
+    color: rgb(58, 58, 58);;
+}
+
+.webname{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(58, 58, 58);
+}
+
+.Shedule{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.login{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background:rgb(255, 238, 0);
+    border-style: none;
+    color: black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 15px;
+}
+
+.reg{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background: rgb(255, 238, 0);
+    border-style: none;
+    color: black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 15px;
+}
+
+.head-2{
+    height:25px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 25px;
+    
+}
+
+.logo{
+    height: 75px;
+}
+
+ul{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    display: flex;
+    gap: 50px;
+    list-style:none;
+}
+
+a{
+    text-decoration: none;
+    color:rgb(255, 174, 0);
+
+}
+
+.template{
+    width: 210vh;
+    height: auto;
+
+}
+
+#about{
+    margin-top: 10vh;
+    display: flex;
+    align-items: center;
+}
+
+.goal{
+    width: 90vh;
+    height: auto;
+}
+
+#name{
+    font-size: 8vh;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(255, 174, 0);
+    text-align: center;
+}
+
+#paragraph{
+    font-size: 4vh;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+
+.update{
+    margin-top: 10vh;
+    color: white;
+    background-color: rgb(255, 174, 0);
+    border: 0px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 20px;
+}
+
+.footer {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 3.5vh;
+    color: white;
+    display: flex;
+    align-items: center; 
+    padding: 10px 20px;
+    background: linear-gradient(to right, rgb(255, 238, 0),rgb(255, 153, 0));
+    align-items: center;
+    height: auto;
+}
+
+.logo1 {
+    height: 75px;
+}
+
+.footer-text {
+    margin: 0 auto;    
+    text-align: center; 
+}
+
+.footname, .foottitle {
+    margin: 0; 
+}
+
+.query{
+    margin-top: 15vh;
+    text-align: center;
+}
+
+.ask{
+    font-size: 8vh;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(255, 174, 0);
+}
+
+.recommend{
+    font-size: 4vh;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(255, 174, 0);
+}
+
+.apply{
+    margin-top: 5vh;
+    color: white;
+    background-color:  rgb(255, 174, 0);;
+    border: 0px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 20px;
+    margin-bottom: 50px;
+}
+
+.destination{
+    width:210vh;
+    height: auto;
+}
